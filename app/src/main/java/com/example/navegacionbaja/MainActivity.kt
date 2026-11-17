@@ -32,5 +32,9 @@ fun NavegacionBajaPreview() {
             onIncrement = {}
         )
 
+
+
+
+
     }
 }
