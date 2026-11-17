@@ -18,6 +18,19 @@ fun FavoritesRoute(viewModel: FavoritesViewModel = viewModel()) {
     FavoritesScreen(uiState = uiState)
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 @Composable
 fun FavoritesScreen(uiState: FavoritesUiState) {
     Column(
