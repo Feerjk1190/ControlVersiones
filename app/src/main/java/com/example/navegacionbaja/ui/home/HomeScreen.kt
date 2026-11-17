@@ -38,5 +38,8 @@ fun HomeScreen(
         Button(onClick = onIncrement) {
             Text(text = "Incrementar")
         }
+        Button(onClick = onIncrement) {
+            Text(text = "Incrementar x2")
+        }
     }
 }

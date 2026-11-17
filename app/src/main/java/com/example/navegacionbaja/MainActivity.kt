@@ -31,5 +31,6 @@ fun NavegacionBajaPreview() {
             uiState = HomeUiState(),
             onIncrement = {}
         )
+
     }
 }
